@@ -1,0 +1,28 @@
+.container .row .card {
+  margin: 30px 30px;
+  padding: 0px;
+  width: 300px;
+}
+
+.container .row .card .addToCard {
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.container .row .card img {
+  width: 286px;
+  padding: 0px;
+}
+
+.shopping-card-list {
+  position: absolute;
+  width: 400px;
+  right: -12px;
+  top: 47px;
+  padding: 16px;
+  z-index: 1;
+  background-color: #E2E0DE;
+  height: 300px;
+  overflow: scroll;
+}
+/*# sourceMappingURL=main.css.map */
